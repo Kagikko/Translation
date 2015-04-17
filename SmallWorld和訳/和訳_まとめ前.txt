@@ -1,0 +1,91 @@
+SmallWOrld和訳べた書き
+
+Page1.
+Components
+コンポーネント
+
+Inside Small World, you will discover:
+スモールワールドの内容物にはこれらのものがあります。
+
+4 Map of Small World, contained on two double-sided boads, one for each of the four possible player configurations.
+スモールワールドには4つのマップがあり、二つの両面のマップがあります。
+
+6 Player Summary sheets, one for each player and one to serve as a game turn reference for the group.
+6プレイヤー分のサマリーシート、各プレイヤーのためにあり、各々のゲームターンの基準になります。
+
+14 Fantasy Race banners, colored when Active and grayed-out when in Decline, plus 1 blank banner for a race of your own design.
+14種類の種族のバナー、それはアクティブ時にはカラー、衰退時にはグレーで表されます。それにプラスしてプレイヤーがデザインできるブランクバナーが一つ含まれています。
+
+168 Matching Race tokens & 18 Lost Tribe tokens:
+168の種族トークンと18の失われた部族のトークンがあります。
+
+20 Unique Special Power badges, plus 1blank badge for a special power of your own design.
+20のユニークなスペシャルパワーバッジに加え、オリジナルデザインすることができるパワーバッジが1つあります。
+
+The following game pieces.
+以下のゲームピースが入っています。
+
+Troll Lairs 10
+Fortresses 6
+Mountains 9
+Encampments 5
+Holes-in-the-Ground 2
+Heroes 2
+Dragon 1
+
+109 Victory Coins
+109の勝利点コイン
+
+1Custom Reinforcement Die
+
+
+1GameTurn maker
+ターンマーカー
+
+This Rules boooklet
+このルールブック
+
+
+Page2.
+
+Setting up the game.
+
+If this is the first time you play, punch out all the pieces from the game's punchiboards.
+Sort them and plae them in the wells designed for each type of piece. Some types fit in the removable storage tray that came with your game. 
+Other components fit inside their respective wells in the main vacuumtray of the game box. Refer to the illustration in Appendix l on p.
+8 for more details on how to organize your tokens.
+あなたが始めてこのゲームをプレイする場合は、ゲームのパンチボードからすべての部分を取り出してください。
+それをソートして、駒の種類毎に指定された場所に配置します。いくつかの種類の部品は付属のリムーバブルストレージトレイに収まります。
+他の部品は、ゲームボックスのそれぞれのトレイ内に収まります。トークン類を整理する方法の詳細は、P.8の付録Lの図を参照して下さい。
+
+Pick the Smal World map that matches your number of players as indicated by the symbol next to the Game Trun track and place it in the center of the table.
+プレイヤーの人数と一致するマップを選び、テーブルの中央に置きます。
+
+Place the Game Turn marker on the first spot of the map's Game Turn track 1. The track is used to monitor the game's progress. The game ends at the end of the turn in which the GameTurn marker reaches the last position on the track( 8th, 9th, or 10th turn , depending on the mapp played).
+ゲームの進行状況を確認するために、使用されるマップのゲームターントラックの最初の場所にゲームターンマーカーを置きます。ゲームはゲームターンマーカーがトラックの最後の位置に到達したターンの終わりで終了です。（マップによって終わるターンが違います）
+
+Pull the removable storage tray with all of its Race tokens out of the box and place it open next to the board map within easy reach of all players 2.
+リムーバブルストレージトレイを箱から取り出し、マップの隣のすべてのプレイヤーの手の届くところに置く。
+
+Shuffle all the Race banners; draw five at random and lay them face up(i. e. colored side visible) in a single column3.
+全ての種族バナーをシャッフルし、ランダムに5枚マップの横に縦に並べる。
+
+Place the remaining banners face up, in a single stack, at the bottom of the column4.
+残りのバナーをその列の下に重ねて置きます、一番上のバナーは表向きにしておきます。
+
+Do the same with the Special Power badges, shuffling them and placing one to the left of each Race banner, its round edge fitting snuggly into the banner's round opening. Stack the rest of the badges in a pile to the left of the Race banners stack 5.
+パワーバッジをシャッフルし先ほどの種族バナーの横に5枚並べる、残りを重ね種族バナーの山の横に置き、一番上を公開する。
+
+You should now have a total of 6 Race banner and Special Power badge combos visible face up on the table, including the one on top of the stacks.
+ここまでで6つの種族とパワーの組み合わせが場に出ている必要があります。
+
+Place a Lost Tribe token on each Region of the map featuring a Lost Tribe symbol 6.The Lost Tribes are remnants of long-forgotten civilizations that have fallen into decline but still populate some Regions at game start.
+失われた部族は衰退しているが、ゲーム開始時にいくつかの地域に移入している。長い間忘れられていた文明の名残であるフィーチャーマップの各地域に失われた部族のトークンを配置します。
+
+Put a Mountain token on each Region of the map featuring a Mountain 7.
+マップの各地域にマウンテントークンを置く
+
+Give each player five “1” Victory coins 8.
+Place all remaining coins, including all “3”s “5”s and “10”s, in a Victory stash next to the board, within easy reach of all players. These coins will serve as your currency during the game, and help determine the winner at the end.
+各プレイヤーに5枚の1勝利点コインを与える。
+ボードの取りやすい位置に残りの3,5,10のコインも置きます。これらの硬貨は、ゲーム中に通貨として機能し、最後に勝者を決定するのに役立ちます。
